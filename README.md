@@ -1,7 +1,5 @@
 # COMP550Project
 
-This project is done by Sienna Hsu (260948832), Joshua Jiang (260928880), and William Huang (260972252).
-
 There are several files:
 - NMT_text_sim.ipynb: The code containing the RNN model and experiments in Jupyter Notebook.
 - nmt_text_sim.py: The code containing the RNN model and experiments. 
