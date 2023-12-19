@@ -12,3 +12,13 @@ There are several files:
 - simple_lex.txt: A text file containing the simplified text by the baseline model on the test instances.
 - simple_s2s.txt: A text file containing the simplified text by the RNN model on the test instances.
 - dataset: A folder containing the dataset we used.
+
+# Packages
+- Spacy's pre-trained model: en_core_web_sm
+- textstat
+- nltk
+- sklearn
+- pyswd.lesk
+- einops
+- matplotlib
+- tensorflow
